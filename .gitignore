@@ -1,0 +1,9 @@
+# Node artifact files
+node_modules/
+dist/
+
+# JetBrains IDE
+.idea/
+
+# Nest.js
+.env
